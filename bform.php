@@ -65,9 +65,9 @@ return($data);
 	<input type="text" name="name" ><span class="error"><?php echo $nameErr;?>*</span><br><br>
 	<label>MOBILE NUMBER</label>
 	<input type="text" name="mobilenumber" placeholder="Enter_your_mobilenumber"><span class="error">*<?php echo $mobilenumberErr;?></span><br><br>
-	<label>FATHERNAME</label>
+	<label>FATHER's NAME</label>
 	<input type="text" name="fathername" ><span class="error"><?php echo $fathernameErr;?>*</span><br><br>
-	<label>MOTHERNAME</label>
+	<label>MOTHER's NAME</label>
 	<input type="text" name="mothername" ><span class="error"><?php echo $mothernameErr;?>*</span><br><br>
 	<label>CITY</label>
 	<input type="text" name="city" ><span class="error"><?php echo $cityErr;?>*</span><br><br>
